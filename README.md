@@ -1,4 +1,3 @@
-🏀 AI Assistance System for Basketball Referees
 #  AI-assistance-to-basketball-referees
 
 This project is an AI-powered assistant designed to support basketball referees by detecting player actions and rule violations in real time. The system uses advanced computer vision techniques such as YOLOv8 for detecting players, the ball, and court boundaries, along with pose estimation to track body keypoints and understand player movements.
