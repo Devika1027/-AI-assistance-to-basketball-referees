@@ -200,7 +200,7 @@ The system produces annotated outputs showing the detected players, pose keypoin
 
 A complete demonstration of the system is available in the repository:
 
-**[▶️ View Demo Video]<video controls src="demo/Demo Video.mp4" title="Title"></video>**
+<video controls src="demo/Demo Video.mp4" title="Title"></video>
 
 The demo demonstrates the system processing basketball gameplay footage and identifying player movements and potential rule violations.
 
